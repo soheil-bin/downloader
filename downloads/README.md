@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [100MB](./100MB)
+- [windows-release](./windows-release)
 
 ---
 
