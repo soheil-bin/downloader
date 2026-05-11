@@ -10,6 +10,7 @@
 - [OnionHop-Setup-2.7](./OnionHop-Setup-2.7)
 - [_beta_13673](./_beta_13673)
 - [_theta_7168](./_theta_7168)
+- [extension-mv2-firefox](./extension-mv2-firefox)
 - [windows-release](./windows-release)
 
 ---
