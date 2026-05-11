@@ -13,6 +13,7 @@
 - [_beta_13673](./_beta_13673)
 - [_theta_7168](./_theta_7168)
 - [extension-mv2-firefox](./extension-mv2-firefox)
+- [index-v1-a1](./index-v1-a1)
 - [mediago-community-setup-win32-x64-3.5.0](./mediago-community-setup-win32-x64-3.5.0)
 - [windows-release](./windows-release)
 
