@@ -8,6 +8,7 @@
 - [Firefox Setup 150.0.2](./Firefox%20Setup%20150.0.2)
 - [K-Lite_Codec_Pack_1970_Standard](./K-Lite_Codec_Pack_1970_Standard)
 - [M3U8.Quicker_1.0.9_windows_x64_setup](./M3U8.Quicker_1.0.9_windows_x64_setup)
+- [M3U8.Quicker_1.1.0_windows_x64_setup](./M3U8.Quicker_1.1.0_windows_x64_setup)
 - [OnionHop-Setup-2.7](./OnionHop-Setup-2.7)
 - [_beta_13673](./_beta_13673)
 - [_theta_7168](./_theta_7168)
